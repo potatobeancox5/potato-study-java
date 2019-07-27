@@ -18,14 +18,14 @@ package com.potato.study.innerclass;
 public class MemberInnerClass {
 
     //外部类的私有属性name
-    private String name = "imooc";
+    private String name = "potato";
 
     //外部类的成员属性
     int age = 20;
 
     //成员内部类Inner
     public class Inner {
-        String name = "爱慕课";
+        String name = "土豆发芽";
         //内部类中的方法
         public void show() {
             System.out.println("外部类中的name：" + MemberInnerClass.this.name);
