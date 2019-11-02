@@ -15,8 +15,16 @@
 4. mac OS 下 jdk安装位置 : /Library/Java/JavaVirtualMachines 
 
 ## 语法糖
+### 1. 声明常量
+com.potato.study.from.book.use.constant.ConstantUtils
 
 ## 实用api
+### 1. Double 类的api使用 
+com.potato.study.from.book.use.doubleclass.DoubleUtils
+### 2. Math 数学函数 包含 数学运算，三角函数，指数函数，圆周率常量等
+com.potato.study.from.book.use.math.MathUtils
+### 3. String 字符串函数常用api
+
 
 ## 实际开发注意点
 

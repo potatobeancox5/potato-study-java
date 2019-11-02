@@ -1,4 +1,4 @@
-package com.potato.study.from.book.doubleclass;
+package com.potato.study.from.book.use.doubleclass;
 
 import org.junit.Test;
 
