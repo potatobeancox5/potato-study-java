@@ -22,3 +22,9 @@
 
 ## todo扩展点列表
 1. java 命令行工具整理
+
+```
+   java ClassName
+   # 执行位于同一个路径下的 ClassName.class 文件
+
+```
