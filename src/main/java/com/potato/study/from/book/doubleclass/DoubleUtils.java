@@ -14,6 +14,9 @@ public class DoubleUtils {
         System.out.println(Double.NaN);
     }
 
+    /**
+     * 判断一个double 数字是否是NaN
+     */
     @Test
     public void judgeNumIsNan() {
         System.out.println(Double.isNaN(111));
