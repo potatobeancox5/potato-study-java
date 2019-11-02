@@ -12,6 +12,7 @@
 1. Java 是一个完整平台，包括各种api+执行环境
 2. Java int 32位
 3. Java 的多线程特性是亮点之一，另外一个就是JVM的垃圾回收
+4. mac OS 下 jdk安装位置 : /Library/Java/JavaVirtualMachines 
 
 ## 语法糖
 
@@ -20,3 +21,4 @@
 ## 实际开发注意点
 
 ## todo扩展点列表
+1. java 命令行工具整理
